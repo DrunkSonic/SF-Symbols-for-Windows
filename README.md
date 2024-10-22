@@ -35,8 +35,10 @@ These instructions are assuming you're using **Windows 10 and up**. If you're no
 9. Click _Copy_ once you've gotten your character(s).
 10. In your program, all you need to do is set the font to `Sf-Symbols.ttf `, then paste in the character using `Ctrl + V` into your text area. From there, you can customize size, color, and more effects with whatever your program allows.
 
-## An easier way may be coming soon!
-Instead of digging through Character Map with no point of reference to help you find the one you're looking for, a website with support for search via filters may be released! It's still a big _if_ if it's going to be released, but it's still in the process of development. If it happens, a link will be posted here, in this section.
+## An easier way to browse through symbols!
+Instead of digging through Character Map with no point of reference to help you find the one you're looking for, here's a [website](https://tuffluck761.wixsite.com/sf-symbols-guide) created by me that allows you to filter symbols by their characteristics! Just double click on a specific symbol at anytime to copy it to your clipboard using **Ctrl + C** and **Ctrl + V**!
+
+Please note, this site is in early development and some parts and functionality may not work. The vast majority of symbols in this collection are not assigned names (which aren't official) or tags yet, so you won't yet be able to find most of them using filters. However, you can still browse through most of them and use **Ctrl + F** to search for a keyword (though you'll need to load all symbols using the _Load more_ button, assuming the symbol you're looking for already has an assigned name. Hopefully, this site will be complete shortly!
 
 > [!NOTE]
 > If the website is published, your browser needs to have support for custom fonts and you also need to have this font file installed in order for it to render correctly.
