@@ -34,6 +34,8 @@ These instructions are assuming you're using **Windows 10 and up**. If you're no
 9. Click _Copy_ once you've gotten your character(s).
 10. In your program, all you need to do is set the font to `Sf-Symbols.ttf `, then paste in the character using `Ctrl + V` into your text area. From there, you can customize size, color, and more effects with whatever your program allows.
 
+This guide shoould be very similar for Mac users, though there's really no need as SF Symbols is already installed on Macs, which is hidden in the SF Pro font file. However, if you still want to install it, the Mac equivalent of Character Map is Font Book.
+
  ## Finding symbols (on the web)
 6,000 symbols are a lot to look through. Use this [website](https://torinak.com/font/lsfont.html) to upload the font file. Then, you can see all of the glyphs in the font in one table on your web browser! Generally, similar symbols will be grouped in one spot, so if you can't find one, look in groups that are similar to it first. Once you've found it, just drag your cursor across the symbol in the table, copy it, and then paste it. Just make sure the program you're using it is set to this font, otherwise it won't display correctly.
 
@@ -59,3 +61,5 @@ However, there are some workarounds:
 _SF Symbols are the intellectual property of Apple, Inc. Any commercial usage is phrohibited and could cause Apple to take legal action against the offender(s) and violater(s). Because this project is not intended to be used in such cases, and as various warnings have been given throughout this .readme file, the creator of this project cannot and will not take fault for any legal action against any user for any reason. If you'd like to use these symbols commercially, get prior permission to do so from Apple, Inc. first, and only use resources granted by them (if you have permission from Apple to use SF Symbols commercially, **do not** use this project and/or its files. If you choose to illegally use this project for commerical use, you accept any consequences and potential copyright infringement claims made by Apple, Inc._
 
 **Consider this disclaimer your final warning.** As a friendly reminder, the creator (DrunkSonic) cannot be held liable for any legal action taken against (a) user(s) for misusing this project.
+
+Whoo! With that tension out of the way, let's get designing!
